@@ -1,0 +1,19 @@
+.card--{
+    border: 5px solid gray;
+    border-radius: 2px;
+    max-height: 300px;
+
+}
+
+.card--img{
+    max-width: 200px;
+}
+
+.container--{
+    height: 100vh;
+    padding-top: 10%;
+}
+
+.row--{
+    max-height: 600px;
+}

@@ -1,0 +1,25 @@
+.nav--link{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: 200ms ease-in;
+}
+.nav--link:hover{
+    color: blue;
+    transition: 500ms ease-out;
+}
+
+.navbar--brand{
+    transition: 200ms ease-in;
+    opacity: 0.8;
+    margin-left: 100px;
+}
+.navbar--brand:hover{
+    opacity: 1;
+    cursor: pointer;
+    transition: 500ms ease-out;
+}
+
+.nav--{
+    height: 100vh;
+}
